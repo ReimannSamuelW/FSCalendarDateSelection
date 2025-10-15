@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (5.6.2)
+  - Calendar-iOS (0.13)
+  - FSCalendar (2.8.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.3)
+  - Calendar-iOS
+  - FSCalendar
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Calendar-iOS
+    - FSCalendar
+
+SPEC CHECKSUMS:
+  Alamofire: d368e1ff8a298e6dde360e35a3e68e6c610e7204
+  Calendar-iOS: a7bb0e6d2cee372e7e3de98d44d60ac7364be7f3
+  FSCalendar: 2d1d0d9398f12d439f55c1fe0f01525b151b8260
+
+PODFILE CHECKSUM: effa91f3d4ac9d12cad106b2eb03e8a2044a5b3a
+
+COCOAPODS: 1.15.2

@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-Filter/Pods-Filter-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/Calendar-iOS/Calendar_iOS.framework
+${BUILT_PRODUCTS_DIR}/FSCalendar/FSCalendar.framework
